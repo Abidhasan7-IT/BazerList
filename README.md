@@ -1,0 +1,1 @@
+https://bazerlist.netlify.app/
